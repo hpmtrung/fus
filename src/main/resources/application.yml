@@ -32,7 +32,7 @@ server:
   port: 8055
 
 application:
-  security-secret: i9/50QWzeyE21WoeHtHc9uUS28+B5fOUbBZ0W8GoqtJfjVnlEkElszaZLFC/KIUBJ/4BVM2t9K9iKHNaOrUEBg==
+  security-secret: 
   max-block-size: 10000 # 1KB
 
 logging:
